@@ -1,0 +1,13 @@
+
+h1 {
+    color: chartreuse;
+    background: red;
+}
+p {
+    color: blue;
+    font-size: 15pix;
+}
+button {
+color: brown;
+border-color: black;
+}
